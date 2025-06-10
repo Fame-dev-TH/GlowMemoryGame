@@ -1,13 +1,13 @@
 # GlowMemoryGame
 
-This game is a color memory training game.
-เกมนี้เป็นเกมแนวฝึกการจำสี
+*This game is a color memory training game.
+*เกมนี้เป็นเกมแนวฝึกการจำสี
 
 # How to play
-คลิก left mouse button เพื่อกดปุ่ม
-คลิก T เพื่อเปลี่ยนภาษาเสียงพูด
-คลิก [ เพื่อลดคุณภาพกราฟฟิก
-คลิก ] เพื่อเพิ่มคุณภาพกราฟฟิก
+*คลิก left mouse button เพื่อกดปุ่ม
+*คลิก T เพื่อเปลี่ยนภาษาเสียงพูด
+*คลิก [ เพื่อลดคุณภาพกราฟฟิก
+*คลิก ] เพื่อเพิ่มคุณภาพกราฟฟิก
 
 
 
