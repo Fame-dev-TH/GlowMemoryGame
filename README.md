@@ -1,4 +1,4 @@
-@@ -1,3
+@@ -1,3 @@
 -# GlowMemoryGame
 -This game is a color memory training game.
 -เกมนี้เป็นเกมแนวฝึกการจำสี
