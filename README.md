@@ -31,3 +31,5 @@ Click ] to increase graphics quality.
 ----------------------------------------------
 
 How to play is not difficult. First, just word the color from the audio (listening is best) and press the button to match the color. The game will have an event card every 2 minutes. There will be 3 event cards to choose from at random.
+
+
